@@ -1,5 +1,6 @@
 <?php
 namespace DD;
+
 /**
  * Plugin Name: Data Dog Plugin for Wordpress.
  * Plugin URI: https://github.com/arunchaitanyajami/php-datadog
