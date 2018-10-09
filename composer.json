@@ -1,0 +1,13 @@
+{
+    "name": "achaitanyajami/php-datadog",
+    "description": "DATA Dog Plugin for Wordpress",
+    "require": {
+        "php-curl-class/php-curl-class": "^8.3"
+    },
+    "authors": [
+        {
+            "name": "achaitanyajami",
+            "email": "arun.chaitanyajami@news.co.uk"
+        }
+    ]
+}
